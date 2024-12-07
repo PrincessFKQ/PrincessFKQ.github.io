@@ -2,7 +2,7 @@
 "recover": "[1]回复体力[2]点",
 "sklAbsorb": "[0]使用了一张[【杀】]并发动技能[狂骨]（真是美味啊！）",
 "sklAccumulate": "[0]发动技能[裸衣]（谁来与我大战三百回合！）",
-"sklAccumulated": "[1]的[【杀】]伤害增加",
+"sklAccumulated": "[1]造成的的[伤害]增加",
 "sklAccumulateCancel": "[1]的[裸衣]状态取消",
 "sklAssassinate1": "[0]发动技能[雄乱]并指定角色[1]（北地枭雄，乱世不败！）",
 "sklAssassinate2": "[0]使用了若干张[【杀】]",
